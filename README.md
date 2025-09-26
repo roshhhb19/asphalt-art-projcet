@@ -18,7 +18,7 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 ## Output:
 
-the output of my asphalt art project(similey face)
+![the picture of a smily face](SmileyFace.png)
 
 ## Reflection
 
